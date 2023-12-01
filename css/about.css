@@ -76,6 +76,10 @@
      background: transparent;
      border-color: var(--color-primary);
 }
+.team_image {
+     border-radius: 1rem;
+     overflow: hidden;
+}
 .team_image img {
      filter: saturate(0);
 }
